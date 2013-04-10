@@ -1,0 +1,15 @@
+<package>
+  <description brief="pkgros">
+
+     This is a test of the NXT Mindstorm
+
+  </description>
+  <author>simon</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pkgros</url>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+</package>
+
+
